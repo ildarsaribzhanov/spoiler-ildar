@@ -1,0 +1,20 @@
+.spoiler_wrap {
+	margin: 0 0 24px;
+}
+
+.spoiler_body {
+	display: none;
+	background: #f7f5e7;
+	padding: 5px 15px;
+}
+
+.spoiler_head {
+	cursor: pointer;
+	color: #ac0404;
+	background: #e0ddcc;
+	padding: 3px 15px;
+}
+
+.spoiler_head:hover {
+	color: #ea9629;
+}
